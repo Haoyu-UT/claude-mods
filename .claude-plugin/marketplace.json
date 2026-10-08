@@ -1,0 +1,21 @@
+{
+  "name": "hwang-mods",
+  "owner": {
+    "name": "Haoyu Wang"
+  },
+  "metadata": {
+    "description": "Some personal mods, including context window display and limit tracker"
+  },
+  "plugins": [
+    {
+      "name": "context-line",
+      "source": "./context-line",
+      "description": "One-line summary of the context window under the prompt: usage, window size and the top 5 categories."
+    },
+    {
+      "name": "usage-limits",
+      "source": "./usage-limits",
+      "description": "Live session (5-hour) and weekly rate-limit usage under the prompt, with bars and reset countdowns."
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "name": "usage-limits",
+  "version": "0.1.0",
+  "description": "Live session (5-hour) and weekly rate-limit usage under the prompt, with bars and reset countdowns.",
+  "types": "./types/index.d.ts"
+}

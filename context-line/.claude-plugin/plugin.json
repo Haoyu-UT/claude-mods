@@ -1,0 +1,6 @@
+{
+  "name": "context-line",
+  "version": "0.1.1",
+  "description": "One-line summary of the context window under the prompt: usage, window size and the top 5 categories.",
+  "types": "./types/index.d.ts"
+}
